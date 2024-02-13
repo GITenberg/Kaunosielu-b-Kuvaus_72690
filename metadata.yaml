@@ -1,0 +1,41 @@
+_repo: Kaunosielu-b-Kuvaus_72690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leino, Eino
+    aliases:
+    - Leino, Armas Eino Leopold
+    - Lonnbohm, Armas Eino Leopold
+    - Lönnbohm, Armas Eino Leopold
+    - Sepeteus, Kanttori
+    - Vilkastus, Mikko
+    - Lönnbohm, Armas Einar Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eino_Leino
+    - https://fi.wikipedia.org/wiki/Eino_Leino
+description: ''
+gutenberg_issued: '2024-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72690'
+  lccn: '67119564'
+language: fi
+pgterms:marc904: https://digi.kansalliskirjasto.fi/teos/binding/1907389?page=6
+pgterms:marc905: 20240104091805leino
+pgterms:marc906: '1904'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bOtava, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Kaunosielu : $b Kuvaus'
+url: http://www.gutenberg.org/ebooks/72690
